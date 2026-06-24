@@ -1,0 +1,8 @@
+dataset/
+backend/venv/
+frontend/node_modules/
+backend/node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
